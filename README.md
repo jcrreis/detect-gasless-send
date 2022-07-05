@@ -26,7 +26,7 @@
 
 This project is still under active development. The goal is to build an add-on for Slither which will catch all usage of .send() and .transfer() function in a solidity contract. This is a very well-known solidity vulnerability, where the usage of this functions might not be appropriate to transfer ether between contracts. Below there is an example of this vulnerability.
 
-[<img src="https://www.researchgate.net/publication/357588999/figure/fig4/AS:1108913911013376@1641397087644/An-Example-of-Gasless-send.png">](https://www.researchgate.net/)
+<img src="https://www.researchgate.net/publication/357588999/figure/fig4/AS:1108913911013376@1641397087644/An-Example-of-Gasless-send.png">(https://www.researchgate.net/)
 
 
 
