@@ -60,7 +60,7 @@ _Below is an example of how you can instruct your audience on installing and set
    
 4. Activate virtual environment
   ```sh
-    source my_env_project/bin/activate
+  source my_env_project/bin/activate
   ```
 5. Install required packages
    ```sh
