@@ -72,10 +72,6 @@ _Below is an example of how you can instruct your audience on installing and set
 ```python3 script.py |solidity file|```
 * eg: ```python3 script.py ./GaslessTransfer/gaslesstransfer.sol```
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://github.com/jcrreis/detect-gasless-send/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
