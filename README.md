@@ -69,7 +69,7 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-```python3 script.py |solidity file|```
+```python3 script.py <solidity file>```
 * eg: ```python3 script.py ./GaslessTransfer/gaslesstransfer.sol```
 
 _For more examples, please refer to the [Documentation](https://github.com/jcrreis/detect-gasless-send/)
