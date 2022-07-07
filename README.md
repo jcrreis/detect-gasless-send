@@ -28,7 +28,6 @@ This project is still under active development. The goal is to build an add-on f
 
 <center><img src="https://www.researchgate.net/publication/357588999/figure/fig4/AS:1108913911013376@1641397087644/An-Example-of-Gasless-send.png"></center>
 
-![Bilby Stampede](https://www.researchgate.net/publication/357588999/figure/fig4/AS:1108913911013376@1641397087644/An-Example-of-Gasless-send.png)
 
 ### Built With
 
@@ -53,7 +52,7 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    git clone https://github.com/jcrreis/detect-gasless-send/ && cd detect-gasless-send
    ```
-3. Create python virtualenv 
+3. Install and create a new python virtualenv 
    ```sh
     apt install python3-pip && apt-get install python3-venv && python3 -m venv my_env_project
    ```
