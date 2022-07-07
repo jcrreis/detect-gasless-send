@@ -46,7 +46,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+
 
 1. Install Python3 [https://phoenixnap.com/kb/how-to-install-python-3-ubuntu](https://phoenixnap.com/kb/how-to-install-python-3-ubuntu)
 2. Clone the repo and change directory to it
@@ -77,6 +77,6 @@ _Below is an example of how you can instruct your audience on installing and set
 ```python3 script.py <solidity file>```
 * eg: ```python3 script.py ./GaslessTransfer/gaslesstransfer.sol```
 
-_For more examples, please refer to the [Documentation](https://github.com/jcrreis/detect-gasless-send/)
+_For more examples, please refer to the [Documentation](https://github.com/jcrreis/detect-gasless-send/)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
