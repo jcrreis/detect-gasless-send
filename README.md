@@ -56,11 +56,10 @@ To get a local copy up and running follow these simple example steps.
    ```sh
     apt install python3-pip && apt-get install python3-venv && python3 -m venv my_env_project
    ```
-   
 4. Activate virtual environment
-  ```sh
-  source my_env_project/bin/activate
-  ```
+   ```sh
+   source my_env_project/bin/activate
+   ```
 5. Install required packages
    ```sh
    pip install -r requirements.txt
